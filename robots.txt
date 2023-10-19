@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: http://madetotolink.xy2401.com/sitemap.xml
